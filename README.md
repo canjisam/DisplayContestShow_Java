@@ -97,8 +97,4 @@ https://algcontest.rainng.com/contests/acm
 
 ## 许可证
 
-[在此添加许可证信息]
-
-## 联系方式
-
-[在此添加联系方式]
+[MIT]
