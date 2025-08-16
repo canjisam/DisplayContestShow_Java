@@ -38,7 +38,7 @@ DisplayContestShow_Java是一个轻量级的Java应用程序，用于获取和�
 
 1. 克隆仓库：
    ```
-   git clone [仓库URL]
+   git clone https://github.com/canjisam/DisplayContestShow_Java.git
    cd DisplayContestShow_Java
    ```
 
